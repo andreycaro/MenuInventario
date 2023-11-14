@@ -1,6 +1,11 @@
 import java.util.Scanner;
+import java.util.ArrayList;
+
+
 
 public class MenuInventario {
+
+
 
     private static Scanner scanner = new Scanner(System.in);
 
@@ -90,3 +95,5 @@ public class MenuInventario {
         menu.runMenu();
     }
 }
+
+
